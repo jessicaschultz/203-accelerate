@@ -39,3 +39,26 @@ Text Domain:  accelerate-theme-child
 	color: #45ac9d;
 	text-transform: uppercase;
 }
+
+/* styles for case studie posts */
+.case-study-sidebar{
+  float: left;
+  width: 30%;
+}
+.case-study-images{
+  float: right;
+  width: 60%;
+}
+div.case-study-images img{
+  width: 100%;
+}
+.case-study-sidebar h4{
+  color: #878787;
+  font-size: .75em;
+  font-weight: 100;
+  margin-top: 10px;
+}
+.case-study-sidebar h4 span{
+  font-size: 1.2em;
+  color: #000000;
+}

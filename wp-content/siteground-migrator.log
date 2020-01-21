@@ -1,0 +1,4 @@
+[21-Jan-2020 18:08:37 UTC] INFO: Transfer started. Creating archives of files... 
+[21-Jan-2020 18:08:37 UTC] INFO: Updating transfer id. 
+[21-Jan-2020 18:08:37 UTC] INFO: Updating transfer psk. 
+[21-Jan-2020 18:08:37 UTC] INFO: cURL error 35: error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version 

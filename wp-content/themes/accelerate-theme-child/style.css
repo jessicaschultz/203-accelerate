@@ -58,7 +58,8 @@ div.case-study-images img{
   font-weight: 100;
   margin-top: 10px;
 }
-.case-study-sidebar h4 span{
-  font-size: 1.2em;
+.case-study-sidebar h5{
+  font-size: .85em;
   color: #000000;
+  margin-top: 10px;
 }

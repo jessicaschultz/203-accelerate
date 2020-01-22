@@ -65,3 +65,23 @@ div.case-study-images img{
 }
 
 /* Homepage-Featured-Work section */
+.section-title{
+  text-align: center;
+  margin: auto;
+}
+.homepage-featured-work{
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 50px auto;
+}
+.individual-featured-work{
+  padding-bottom: 20px;
+  margin: auto;
+}
+.individual-featured-work h3{
+  text-align: center;
+  font-size: 1em;
+  font-weight: lighter;
+}

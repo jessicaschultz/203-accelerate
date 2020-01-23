@@ -95,3 +95,14 @@ div.case-study-images img{
  	width: 100%;
  	height: auto;
  }
+
+/* contact page Ninja form styling */
+/* div for whole form content */
+.nf-form-content {
+}
+/* name field div */
+#nf-field-5-container{
+}
+/* email field div */
+#nf-field-2-container{
+}

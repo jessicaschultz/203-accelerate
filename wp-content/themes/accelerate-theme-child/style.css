@@ -85,3 +85,13 @@ div.case-study-images img{
   font-size: 1em;
   font-weight: lighter;
 }
+ /* Archive page styles */
+ .case-study-archive{
+   display: flex;
+   justify-content: space-between;
+   margin: 50px auto;
+ }
+ div.case-study-images img {
+ 	width: 100%;
+ 	height: auto;
+ }
